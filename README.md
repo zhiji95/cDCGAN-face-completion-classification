@@ -1,2 +1,3 @@
-# cDCGAN-face-completion-classification
-Conditional Deep Convolutional Generative Adversarial Networks structure for completing incomplete face images and furthermore classifying.
+# Conditional-Deep-Convolutional-GANs-for-Image-Completion
+Deep Learning in Computer Vision, Speech, and Language Final Project
+
