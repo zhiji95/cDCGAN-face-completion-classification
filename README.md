@@ -9,3 +9,9 @@ See GIF demo for the face completion of final modal here:
 ![Image text](https://github.com/zhiji95/cDCGAN-face-completion-classification/raw/master/images/losses.png)
 ## 3. An example of generated face images of our GAN. ##
 ![Image text](https://github.com/zhiji95/cDCGAN-face-completion-classification/raw/master/images/model-comparison.png)
+## 4. Set up the environment. ##
+##### [GCP from scratch](https://ecbm4040.bitbucket.io/2018_fall/EnvSetup/gcp-from-zero.html) 
+##### [GCP Setup](https://ecbm4040.bitbucket.io/2018_fall/EnvSetup/gcp.html) 
+```
+pip install -r requirements.txt
+```
